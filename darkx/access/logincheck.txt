@@ -1,0 +1,11 @@
+|------- Darkx M&T Info [Login Details] -----------|
+userID                                 : SDDSDS
+Passcode                               : DSDSDS
+|--------------- I N F O | I P -------------------|
+IP Address	                       : 41.190.3.53
+IP Country	                       : Nigeria
+IP City	                                 : Lagos
+Browser		                       : Chrome on Windows 10
+User Agent	                       : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+TIME		                       : 05/01/2021 10:39:55pm GMT
+|-----------Darkx M&T Info--------------|

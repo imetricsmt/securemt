@@ -1,0 +1,14 @@
+::1 | crawlerdetect Referrer Block
+::1 | crawlerdetect Referrer Block
+::1 | crawlerdetect Referrer Block
+::1 | crawlerdetect Referrer Block
+::1 | crawlerdetect Referrer Block
+::1 | crawlerdetect Referrer Block
+::1 | crawlerdetect Referrer Block
+127.0.0.1 | crawlerdetect Referrer Block
+127.0.0.1 | crawlerdetect Referrer Block
+127.0.0.1 | crawlerdetect Referrer Block
+127.0.0.1 | crawlerdetect Referrer Block
+::1 | crawlerdetect Referrer Block
+::1 | crawlerdetect Referrer Block
+::1 | crawlerdetect Referrer Block
